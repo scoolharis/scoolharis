@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to my humble abode 👋
+
+<img src="https://discord.c99.nl/widget/theme-3/375567587209248778.png"/>
 
 <!--
 **scoolharis/scoolharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
