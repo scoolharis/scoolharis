@@ -32,6 +32,11 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 <img alt="Zorin OS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/></a>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+
+### <p align="center"> 🚂 &nbsp;Visitor Count 🚂
+<p align="center"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=scoolharis&label=Profile%20Views&color=7&icon=2&pretty=true" />
+</a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
