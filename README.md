@@ -9,8 +9,8 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/scoolharis">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scoolharis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scoolharis&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scoolharis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scoolharis&layout=compact&langs_count=8&theme=gruvbox"/>
   </a>
 </p>
 
