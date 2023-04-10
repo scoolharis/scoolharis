@@ -1,7 +1,30 @@
-### Hi there, Welcome to my humble abode 👋
+### <p align="center"> Hi there, Welcome to my humble abode 👋 </p>
 
-<img src="https://discord.c99.nl/widget/theme-3/375567587209248778.png"/>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/375567587209248778.png"/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center" style="font-size:250px">👋 Hello There</h1>
+<p align="center">Just your average programmer and Gaming Enthusiast</p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center" class="d-flex justify-content-center align-items-center">
+  <a href="https://github.com/scoolharis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scoolharis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scoolharis&layout=compact&langs_count=8&theme=gruvbox"/>
+  </a>
+</p>
+
+### 🤝🏻 &nbsp;Me In Another Web
+<p align="center">
+<a href="https://www.instagram.com/_silens">
+<img alt="Instagram" title="follow me" src="https://img.shields.io/badge/-silens-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/silensexodia">
+<img alt="Steam" src="https://img.shields.io/badge/-Silens Exodia-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
+<p align="center">
+<a href="https://www.deviantart.com/scoolharis">
+<img alt="Deviantart" title="follow me" src="https://img.shields.io/badge/-Scoolharis-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/Silens___">
+<img alt="Reddit" src="https://img.shields.io/badge/-Silens-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <!--
 **scoolharis/scoolharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
